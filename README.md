@@ -14,9 +14,18 @@ A: We recommend https://hoogle.haskell.org - which allows you to search for func
    Please keep in mind that Plutus on-chain code will only support a subset of haskell.
    You might also want to take a look at [awesome-haskell](https://github.com/krispo/awesome-haskell#readme)
 
+Q: How can I write/run plutus code today?
+A: (As of may 19, 2021) - currently plutus does not have a public test net, plutus can run in a simulated chain using the Plutus Application backend, or PAB, which is available in the plutus monorepo.
+
+
 ## Official
 - [Plutus Monorepo](https://github.com/input-output-hk/plutus)
 - [The Plutus Playground](https://playground.plutus.iohkdev.io)  - allows a plutus script to be compiled and evaluated online
+- [Official Plutus Tutorial](https://docs.cardano.org/projects/plutus/en/latest/plutus/tutorials/index.html)
+- [Plutus GHC Plugin Errors - Troubleshooting guide](https://alpha.marlowe.iohkdev.io/doc/plutus/troubleshooting.html)
+- 
+## Guides
+- [How to Use Hoogle with the Plutus Monorepo](https://gist.github.com/t1lde/5649d86c97367f95bb026c23511249d5)
 
 ## Videos
 - Plutus Pioneer program
@@ -26,7 +35,7 @@ A: We recommend https://hoogle.haskell.org - which allows you to search for func
   - [Lecture #4](https://www.youtube.com/watch?v=6Reuh0xZDjY)
   - [Lecture #5](https://www.youtube.com/watch?v=6VbhY162GQA)
   - [Lecture #6](https://www.youtube.com/watch?v=wY7R-PJn66g&t=2832s)
-- 
+
 ## Code Examples
 - [Plutus Use Cases](https://github.com/input-output-hk/plutus/tree/master/plutus-use-cases)
 
