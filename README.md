@@ -7,6 +7,14 @@ Plutus is the new smart contract language for the Cardano blockchain.
 
 This is intended to give the first waves of Plutus developers the best and most comprehensive information and tools for using plutus as fast as possible.
 
+- [FAQ](#faq)
+- [Official](#official)
+- [Guides](#guides)
+- [Videos](#videos)
+- [Code Examples](#code-examples)
+- [Testing](#testing)
+- [Formal Specification Documents](#formal-specification-documents)
+
 ## FAQ
 
 Q: Where can I find haskell libraries I can use with plutus.
@@ -19,16 +27,16 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
 
 
 ## Official
-- [Plutus Monorepo](https://github.com/input-output-hk/plutus)
+- [Plutus Monorepo](https://github.com/input-output-hk/plutus) - the place to get started, depend on this repo to start a plutus project
 - [The Plutus Playground](https://playground.plutus.iohkdev.io)  - allows a plutus script to be compiled and evaluated online
 - [Official Plutus Tutorial](https://docs.cardano.org/projects/plutus/en/latest/plutus/tutorials/index.html)
 - [Plutus GHC Plugin Errors - Troubleshooting guide](https://alpha.marlowe.iohkdev.io/doc/plutus/troubleshooting.html)
 - 
 ## Guides
-- [How to Use Hoogle with the Plutus Monorepo](https://gist.github.com/t1lde/5649d86c97367f95bb026c23511249d5)
+- [How to Use Hoogle with the Plutus Monorepo](https://gist.github.com/t1lde/5649d86c97367f95bb026c23511249d5) - allows you to run Haskell's searchable documentation database, with the plutus library included
 
 ## Videos
-- Plutus Pioneer program
+- Plutus Pioneer Program Lectures:
   - [Lecture #1](https://www.youtube.com/watch?v=igV7kMXcdpw)
   - [Lecture #2](https://www.youtube.com/watch?v=E5KRk5y9KjQ)
   - [Lecture #3](https://www.youtube.com/watch?v=Lk1eIVm_ZTQ)
