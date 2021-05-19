@@ -1,5 +1,4 @@
 # Contribution Guidelines
-
 ## Adding something to an awesome list
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
@@ -12,7 +11,11 @@ You'll need a [GitHub account](https://github.com/join)!
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+## Updating the table of contents
 
+the table of contents is generated with the following `npx` script.  npx is bundled with NPM, the node package manager
+
+`npx markdown-toc ./README.md --no-firsth1`
 ## Updating your Pull Request
 
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
