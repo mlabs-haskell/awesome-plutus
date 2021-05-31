@@ -47,6 +47,7 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
   - [Lecture #5](https://www.youtube.com/watch?v=6VbhY162GQA)
   - [Lecture #6](https://www.youtube.com/watch?v=wY7R-PJn66g&t=2832s)
   - [Lecture #7](https://www.youtube.com/watch?v=oJupInqvJUI)
+  - [Lecture #8](https://www.youtube.com/watch?v=JMRwkMgaBOg)
 
 ## Code Examples
 - [Plutus Use Cases](https://github.com/input-output-hk/plutus/tree/master/plutus-use-cases) - the first toy applications developed in plutus as proof of concept for industrial projects. a great reference including example test suites
