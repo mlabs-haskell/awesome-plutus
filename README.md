@@ -14,8 +14,9 @@ This is intended to give the first waves of Plutus developers the best and most 
 - [Code Examples](#code-examples)
 - [Testing](#testing)
 - [Formal Specification Documents](#formal-specification-documents)
+- [Deployment](#deployment)
 
-## FAQ
+##FAQ
 
 Q: Where can I find haskell libraries I can use with plutus.
 A: We recommend https://hoogle.haskell.org - which allows you to search for functions by type.
@@ -51,8 +52,12 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
  
 - [Wallet Emulator](https://github.com/input-output-hk/plutus/tree/master/plutus-contract/src/Wallet/Emulator) - can easily run tests in an emulated environment.
 - [PAB Simulator](https://github.com/input-output-hk/plutus/blob/master/plutus-pab/src/Plutus/PAB/Simulator.hs) - can easily run tests or live interaction via http with a simulated local blockchain which supports Plutus
+- [IOHK Tutorial on Testing Plutus Contracts](https://docs.cardano.org/projects/plutus/en/latest/plutus/tutorials/contract-testing.html?highlight=slots) - a tutorial on how to test stateful contracts using quickcheck property testing.
 
 ## Formal Specification Documents
 - [The EUTXO Spec](https://github.com/hydra-supplementary-material/eutxo-spec/blob/master/extended-utxo-specification.pdf) - specification for extensions on the UTXO model, as used in Cardano, defines many of the base data types used in Plutus
 - [The Plutus Platform Technical Report (DRAFT)](https://hydra.iohk.io/build/5735420/download/1/plutus.pdf) - a general overview of Plutus as a language and smart contract platform.
 - [Plutus Core Formal Specification](https://hydra.iohk.io/build/5988492/download/1/plutus-core-specification.pdf) - the specification for the serializable core language built on system F which is used for the on-chain portion of Plutus.
+
+## Deployment
+- https://github.com/input-output-hk/Alonzo-testnet - describes how to set up an Alonzo Blue node (as of June 16 2021)
