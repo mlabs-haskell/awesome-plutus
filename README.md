@@ -9,7 +9,7 @@ This is intended to give the first waves of Plutus developers the best and most 
 
 - [FAQ](#faq)
 - [Official](#official)
-- [Guides](#guides)
+- [Community Tutorials](#community-tutorials)
 - [Videos](#videos)
 - [Code Examples](#code-examples)
 - [Testing](#testing)
