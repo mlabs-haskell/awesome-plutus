@@ -18,9 +18,9 @@ This is intended to give the first waves of Plutus developers the best and most 
 
 ## FAQ
 
-Q: Where can I find haskell libraries I can use with Plutus.
+Q: Where can I find Haskell libraries I can use with Plutus.
 A: We recommend https://hoogle.haskell.org - which allows you to search for functions by type.
-   Please keep in mind that Plutus on-chain code will only support a subset of haskell.
+   Please keep in mind that Plutus on-chain code will only support a subset of Haskell.
    You might also want to take a look at [awesome-haskell](https://github.com/krispo/awesome-haskell#readme)
 
 Q: How can I write/run Plutus code today?
