@@ -16,7 +16,7 @@ This is intended to give the first waves of Plutus developers the best and most 
 - [Formal Specification Documents](#formal-specification-documents)
 - [Deployment](#deployment)
 
-##FAQ
+## FAQ
 
 Q: Where can I find haskell libraries I can use with plutus.
 A: We recommend https://hoogle.haskell.org - which allows you to search for functions by type.
