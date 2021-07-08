@@ -5,7 +5,7 @@ A curated list of amazingly awesome Plutus libraries, resources and shiny things
 
 Plutus is the new smart contract language for the Cardano blockchain.
 
-This is intended to give the first waves of Plutus developers the best and most comprehensive information and tools for using plutus as fast as possible.
+This is intended to give the first waves of Plutus developers the best and most comprehensive information and tools for using Plutus as fast as possible.
 
 - [FAQ](#faq)
 - [Official](#official)
@@ -18,13 +18,13 @@ This is intended to give the first waves of Plutus developers the best and most 
 
 ## FAQ
 
-Q: Where can I find haskell libraries I can use with plutus.
+Q: Where can I find haskell libraries I can use with Plutus.
 A: We recommend https://hoogle.haskell.org - which allows you to search for functions by type.
    Please keep in mind that Plutus on-chain code will only support a subset of haskell.
    You might also want to take a look at [awesome-haskell](https://github.com/krispo/awesome-haskell#readme)
 
-Q: How can I write/run plutus code today?
-A: (As of may 19, 2021) - currently plutus does not have a public test net, plutus can run in a simulated chain using the Plutus Application backend, or PAB, which is available in the plutus monorepo.
+Q: How can I write/run Plutus code today?
+A: (As of may 19, 2021) - currently Plutus does not have a public test net, Plutus can run in a simulated chain using the Plutus Application backend, or PAB, which is available in the Plutus monorepo.
 
 
 ## Official
@@ -32,7 +32,7 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
 - [The Plutus Playground](https://playground.plutus.iohkdev.io)  - allows a Plutus script to be compiled and evaluated online
 - [Official Plutus Tutorial](https://playground.plutus.iohkdev.io/tutorial/index.html) - a great starting place to get the foundations of Plutus
 - [Plutus GHC Plugin Errors - Troubleshooting guide](https://alpha.marlowe.iohkdev.io/doc/plutus/troubleshooting.html) - the official guide to troublshooting Plutus plugin & Plutus Core generation issues.
-- [How to Use Hoogle with the Plutus Monorepo](https://gist.github.com/t1lde/5649d86c97367f95bb026c23511249d5) - allows you to run Haskell's searchable documentation database, with the plutus library included
+- [How to Use Hoogle with the Plutus Monorepo](https://gist.github.com/t1lde/5649d86c97367f95bb026c23511249d5) - allows you to run Haskell's searchable documentation database, with the Plutus library included
 
 ## Community Tutorials
 
@@ -41,14 +41,14 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
 - [Ouroboros Protocol. The Heart of Cardano](https://discord.com/channels/826816523368005654/834340602400473089) - an explainer of the Proof of Stake protocol used by Cardano. accompanying article [here](https://medium.com/@carloslopezdelara/whats-ouroboros-the-cardano-proof-of-stake-protocol-ad4b958e152e)
 
 ## Videos
-- [Plutus Pioneer Program Lectures](https://github.com/input-output-hk/plutus-pioneer-program) - this is the first formal education program intended for the first wave of plutus developers
+- [Plutus Pioneer Program Lectures](https://github.com/input-output-hk/plutus-pioneer-program) - this is the first formal education program intended for the first wave of Plutus developers
 
 
 ## Code Examples
-- [Plutus Use Cases](https://github.com/input-output-hk/plutus/tree/master/plutus-use-cases) - the first toy applications developed in plutus as proof of concept for industrial projects. a great reference including example test suites
+- [Plutus Use Cases](https://github.com/input-output-hk/plutus/tree/master/plutus-use-cases) - the first toy applications developed in Plutus as proof of concept for industrial projects. a great reference including example test suites
 
 ## Testing
- the plutus monorepo currently provides two libraries that can be used to write effective tests for your plutus contract:
+ the Plutus monorepo currently provides two libraries that can be used to write effective tests for your Plutus contract:
  
 - [Wallet Emulator](https://github.com/input-output-hk/plutus/tree/master/plutus-contract/src/Wallet/Emulator) - can easily run tests in an emulated environment.
 - [PAB Simulator](https://github.com/input-output-hk/plutus/blob/master/plutus-pab/src/Plutus/PAB/Simulator.hs) - can easily run tests or live interaction via http with a simulated local blockchain which supports Plutus
