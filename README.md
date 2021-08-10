@@ -34,7 +34,12 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
 - [Plutus GHC Plugin Errors - Troubleshooting guide](https://alpha.marlowe.iohkdev.io/doc/plutus/troubleshooting.html) - the official guide to troublshooting Plutus plugin & Plutus Core generation issues.
 - [How to Use Hoogle with the Plutus Monorepo](https://gist.github.com/t1lde/5649d86c97367f95bb026c23511249d5) - allows you to run Haskell's searchable documentation database, with the plutus library included
 - [Public Haddock Instance for Plutus](https://staging.plutus.iohkdev.io/doc/haddock/index.html) - allows you to search Plutus documentation directly
-
+- Alonzo office hours - discussion of the Plutus hard fork event, and how to interact with plutus contracts on testnets (some episodes not available)
+  * [episode 2](https://www.youtube.com/watch?v=OwdOS3v4nBU)
+  * [episode 4](https://youtu.be/8RwerN9VKJQ)
+  * [episode 5](https://youtu.be/qg1zZHgt5xA)
+  * [episode 6](https://youtu.be/c4WjMRP0Hv4)
+  * [episode 7](https://www.youtube.com/watch?v=WC7zYIfkHBc)
 ## Community Tutorials
 
 - [The UTXO model explained with examples](https://bikemonkey.tech/the-utxo-model-explained-with-examples/) - since the Plutus smart contract platform uses an extended UTXO model, it is good to have a solid understanding of how this model works and how it is different from the Ethereum Account model.
