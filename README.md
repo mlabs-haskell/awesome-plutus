@@ -45,6 +45,7 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
 - [The UTXO model explained with examples](https://bikemonkey.tech/the-utxo-model-explained-with-examples/) - since the Plutus smart contract platform uses an extended UTXO model, it is good to have a solid understanding of how this model works and how it is different from the Ethereum Account model.
 - [Introduction to the Cardano blockchain ledger and smart contracts](https://apfelmus.nfshost.com/articles/cardano-ledger-intro.html) - a general introduction to the mechanics of smart contracts in the Cardano ecosystem
 - [Ouroboros Protocol. The Heart of Cardano](https://discord.com/channels/826816523368005654/834340602400473089) - an explainer of the Proof of Stake protocol used by Cardano. accompanying article [here](https://medium.com/@carloslopezdelara/whats-ouroboros-the-cardano-proof-of-stake-protocol-ad4b958e152e)
+- [Plutus Pioneer Program & Alonzo White Notes](https://plutus-pioneer-program.readthedocs.io/en/latest/index.html) - lecture notes for the Plutus Pioneer Program
 
 ## Videos
 - [Plutus Pioneer Program Lectures](https://github.com/input-output-hk/plutus-pioneer-program) - this is the first formal education program intended for the first wave of plutus developers
