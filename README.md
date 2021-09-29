@@ -41,6 +41,8 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
   * [episode 5](https://youtu.be/qg1zZHgt5xA)
   * [episode 6](https://youtu.be/c4WjMRP0Hv4)
   * [episode 7](https://www.youtube.com/watch?v=WC7zYIfkHBc)
+- [Hydra: Fast Isomorphic State Channels](https://eprint.iacr.org/2020/299.pdf) - a scaling solution in the pipeline for Cardano.
+
 ## Community Tutorials
 
 - [The UTXO model explained with examples](https://bikemonkey.tech/the-utxo-model-explained-with-examples/) - since the Plutus smart contract platform uses an extended UTXO model, it is good to have a solid understanding of how this model works and how it is different from the Ethereum Account model.
