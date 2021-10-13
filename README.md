@@ -42,6 +42,7 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
   * [episode 6](https://youtu.be/c4WjMRP0Hv4)
   * [episode 7](https://www.youtube.com/watch?v=WC7zYIfkHBc)
 - [Hydra: Fast Isomorphic State Channels](https://eprint.iacr.org/2020/299.pdf) - a scaling solution in the pipeline for Cardano.
+- [Cardano Improvement Proposals (CIPs)](https://github.com/cardano-foundation/CIPs) - proposals for updates and standards for the Cardano ecosystem. Many important draft proposals in the PR section are already being adopted in the community.
 
 ## Community Tutorials
 
