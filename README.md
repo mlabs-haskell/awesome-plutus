@@ -30,7 +30,7 @@ A: (As of may 19, 2021) - currently plutus does not have a public test net, plut
 ## Official
 - [Plutus Monorepo](https://github.com/input-output-hk/plutus) - the place to get started, depend on this repo to start a Plutus project
 - [The Plutus Playground](https://playground.plutus.iohkdev.io)  - allows a Plutus script to be compiled and evaluated online
-- [Official Plutus Tutorial](https://playground.plutus.iohkdev.io/tutorial/index.html) - a great starting place to get the foundations of Plutus
+- [Official Plutus Tutorial](https://plutus.readthedocs.io/en/latest/plutus/tutorials/index.html) - a great starting place to get the foundations of Plutus
 - [Plutus GHC Plugin Errors - Troubleshooting guide](https://alpha.marlowe.iohkdev.io/doc/plutus/troubleshooting.html) - the official guide to troublshooting Plutus plugin & Plutus Core generation issues.
 - [How to Use Hoogle with the Plutus Monorepo](https://gist.github.com/t1lde/5649d86c97367f95bb026c23511249d5) - allows you to run Haskell's searchable documentation database, with the plutus library included
 - [Public Haddock Instance for Plutus](https://staging.plutus.iohkdev.io/doc/haddock/index.html) - allows you to search Plutus documentation directly
