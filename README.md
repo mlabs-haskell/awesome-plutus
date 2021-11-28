@@ -43,6 +43,7 @@ A: (As of may 19, 2021) - currently Plutus does not have a public test net, Plut
   * [episode 6](https://youtu.be/c4WjMRP0Hv4)
   * [episode 7](https://www.youtube.com/watch?v=WC7zYIfkHBc)
 - [Hydra: Fast Isomorphic State Channels](https://eprint.iacr.org/2020/299.pdf) - a scaling solution in the pipeline for Cardano.
+- [Interhead Hydra: Two Heads are Better Than One](https://eprint.iacr.org/2021/1188.pdf) - additional information about Hydra.
 - [Cardano Improvement Proposals (CIPs)](https://github.com/cardano-foundation/CIPs) - proposals for updates and standards for the Cardano ecosystem. Many important draft proposals in the PR section are already being adopted in the community.
 - [The Minimum Ada Requirement](https://docs.cardano.org/native-tokens/minimum-ada-value-requirement/) - A specific rule that is important in smart contract development.
 
