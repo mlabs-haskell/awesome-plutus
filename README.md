@@ -45,6 +45,7 @@ A: (As of may 19, 2021) - currently Plutus does not have a public test net, Plut
 - [Interhead Hydra: Two Heads are Better Than One](https://eprint.iacr.org/2021/1188.pdf) - additional information about Hydra.
 - [Cardano Improvement Proposals (CIPs)](https://github.com/cardano-foundation/CIPs) - proposals for updates and standards for the Cardano ecosystem. Many important draft proposals in the PR section are already being adopted in the community.
 - [The Minimum Ada Requirement](https://docs.cardano.org/native-tokens/minimum-ada-value-requirement/) - A specific rule that is important in smart contract development.
+- [Essential Cardano](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md) - a curated list of resources for the entire Cardano network and community.
 
 ## Community Tutorials
 
