@@ -52,6 +52,7 @@ A: (As of may 19, 2021) - currently Plutus does not have a public test net, Plut
 - [Introduction to the Cardano blockchain ledger and smart contracts](https://apfelmus.nfshost.com/articles/cardano-ledger-intro.html) - a general introduction to the mechanics of smart contracts in the Cardano ecosystem
 - [Ouroboros Protocol. The Heart of Cardano](https://discord.com/channels/826816523368005654/834340602400473089) - an explainer of the Proof of Stake protocol used by Cardano. accompanying article [here](https://medium.com/@carloslopezdelara/whats-ouroboros-the-cardano-proof-of-stake-protocol-ad4b958e152e)
 - [Plutus Pioneer Program & Alonzo White Notes](https://plutus-pioneer-program.readthedocs.io/en/latest/index.html) - lecture notes for the Plutus Pioneer Program
+- [The Plutonomicon](https://github.com/Plutonomicon/plutonomicon) - A collection of important documents and techniques for advanced, production-ready plutus.
 
 ## Videos
 - [Plutus Pioneer Program Lectures](https://github.com/input-output-hk/plutus-pioneer-program) - this is the first formal education program intended for the first wave of Plutus developers
