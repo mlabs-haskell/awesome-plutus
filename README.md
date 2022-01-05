@@ -76,3 +76,7 @@ A: (As of may 19, 2021) - currently Plutus does not have a public test net, Plut
 
 ## Deployment
 - https://github.com/input-output-hk/Alonzo-testnet - describes how to set up an Alonzo Blue node (as of June 16 2021)
+
+## Other lists
+- [Essential Cardano](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md)
+- [Cardano Development Universe](https://github.com/Cardano-Fans/Cardano-Development-Universe)
