@@ -54,6 +54,7 @@ A: (As of may 19, 2021) - currently Plutus does not have a public test net, Plut
 - [Ouroboros Protocol. The Heart of Cardano](https://discord.com/channels/826816523368005654/834340602400473089) - an explainer of the Proof of Stake protocol used by Cardano. accompanying article [here](https://medium.com/@carloslopezdelara/whats-ouroboros-the-cardano-proof-of-stake-protocol-ad4b958e152e)
 - [Plutus Pioneer Program & Alonzo White Notes](https://plutus-pioneer-program.readthedocs.io/en/latest/index.html) - lecture notes for the Plutus Pioneer Program
 - [The Plutonomicon](https://github.com/Plutonomicon/plutonomicon) - A collection of important documents and techniques for advanced, production-ready plutus.
+- [Hachi Blog](https://blog.hachi.one/) - A collection of blog posts on security research on Cardano.
 
 ## Videos
 - [Plutus Pioneer Program Lectures](https://github.com/input-output-hk/plutus-pioneer-program) - this is the first formal education program intended for the first wave of Plutus developers
@@ -64,7 +65,7 @@ A: (As of may 19, 2021) - currently Plutus does not have a public test net, Plut
 
 ## Testing
  the Plutus monorepo currently provides two libraries that can be used to write effective tests for your Plutus contract:
- 
+
 - [Wallet Emulator](https://github.com/input-output-hk/plutus/tree/master/plutus-contract/src/Wallet/Emulator) - can easily run tests in an emulated environment.
 - [PAB Simulator](https://github.com/input-output-hk/plutus/blob/master/plutus-pab/src/Plutus/PAB/Simulator.hs) - can easily run tests or live interaction via http with a simulated local blockchain which supports Plutus
 - [IOHK Tutorial on Testing Plutus Contracts](https://docs.cardano.org/projects/plutus/en/latest/plutus/tutorials/contract-testing.html?highlight=slots) - a tutorial on how to test stateful contracts using quickcheck property testing.
