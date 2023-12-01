@@ -61,7 +61,7 @@ A: (As of may 19, 2021) - currently Plutus does not have a public test net, Plut
 
 
 ## Code Examples
-- [Plutus Use Cases](https://github.com/input-output-hk/plutus/tree/master/plutus-use-cases) - the first toy applications developed in Plutus as proof of concept for industrial projects. a great reference including example test suites
+- [Plutus Use Cases](https://github.com/mlabs-haskell/plutus-use-cases/tree/main/mlabs) - the first toy applications developed in Plutus as proof of concept for industrial projects. a great reference including example test suites
 
 ## Testing
  the Plutus monorepo currently provides two libraries that can be used to write effective tests for your Plutus contract:
